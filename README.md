@@ -1,4 +1,4 @@
-# Legacy-of-Pixar-Films
+# Legacy of Pixar Films
 
 ## Introduction
 For their series of challenges, Maven Analytics have provided datasets on Pixar films from 1995 to 2024. These datasets include information on ratings, directors, genres, box office, awards, and budgets. 
