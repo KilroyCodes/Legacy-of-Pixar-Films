@@ -5,12 +5,7 @@ For their series of challenges, Maven Analytics have provided datasets on Pixar 
 
 The challenge is to create an infographic showcasing the legacy of Pixar films over the 30 year span.
   
----  
-  
-## Challenge Link
-[Maven Pixar Challenge](https://mavenanalytics.io/challenges/maven-pixar-challenge)  
-
----  
+**Challenge Link**: [Maven Pixar Challenge](https://mavenanalytics.io/challenges/maven-pixar-challenge)  
 
 ## Tableau Visualisation
 The [Tableau viz](https://public.tableau.com/views/TheLegacyofPixarFilms/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) contains more detailed information when hovering over the table elements.   
